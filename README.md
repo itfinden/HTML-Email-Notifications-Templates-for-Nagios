@@ -1,4 +1,4 @@
-# ITFINDEN HTML-Email-Notifications-Templates-for-Nagios
+# ITFINDEN 2022 HTML-Email-Notifications-Templates-for-Nagios
 
 Nagios Configuration
 For the host and services notification alerts, add these lines to your Nagios commands file (usually located in the Nagios configurations directory and named 'objects') as command definitions:
